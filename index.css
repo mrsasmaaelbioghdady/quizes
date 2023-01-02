@@ -1,0 +1,14 @@
+a{
+    color: rgb(32, 153, 113);
+    text-decoration: solid;
+    font-size: 40px;
+    display: block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+a:hover{
+    color: maroon;
+}
+a:visited{
+
+}
